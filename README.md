@@ -1,2 +1,8 @@
-# profile-5.0
-puppy
+Simply a personal website
+
+## 💢 Status: 
+- 🟨 In progress!
+## 🍃 Information
+- 🧨 **Use:** JavaScript, SCSS, CSS, HTML.
+- 💦 **Frameworks & Styling**: ReactJS, Tailwindcss.
+- ⚡ **API**: Github, Lanyard, Open Weather Map
